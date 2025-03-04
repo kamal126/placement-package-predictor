@@ -21,7 +21,7 @@
 ## 🛠 Setup Instructions
 ### 1️⃣ Clone the Repository
 ```
-git clone https://github.com/yourusername/placement-pkg-predictor.git
+git clone https://github.com/kamal126/placement-pkg-predictor.git
 cd placement-pkg-predictor
 ```
 
